@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.24720.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JWS.Fields.Library", "JWS.Fields.Librray\JWS.Fields.Library.csproj", "{BF18D464-C417-4230-8478-996BFE4A20FB}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JWS.Fields.Library", "JWS.Fields.Library\JWS.Fields.Library.csproj", "{BF18D464-C417-4230-8478-996BFE4A20FB}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Sitecore Packages", "Sitecore Packages", "{8F75C205-66D2-42E4-AC3D-7DE8AD91B4BE}"
 	ProjectSection(SolutionItems) = preProject

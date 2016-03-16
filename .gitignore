@@ -1,4 +1,4 @@
-###################
+﻿###################
 # compiled source #
 ###################
 *.com
@@ -68,6 +68,7 @@ Thumbs.db
 *.[Cc]ache
 *[Rr]esharper*
 packages
+JWSD.Fields/packages
 NuGet.exe
 _[Ss]cripts
 *.nupkg

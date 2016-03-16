@@ -7,8 +7,8 @@
     <ProjectGuid>{BF18D464-C417-4230-8478-996BFE4A20FB}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>JWS.Fields.Librray</RootNamespace>
-    <AssemblyName>JWS.Fields.Librray</AssemblyName>
+    <RootNamespace>JWS.Fields.Library</RootNamespace>
+    <AssemblyName>JWS.Fields.Library</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>

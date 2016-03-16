@@ -2,18 +2,16 @@
 using System.Collections.Generic;
 using System.Globalization;
 using System.Linq;
-using System.Text;
 using System.Text.RegularExpressions;
-using System.Threading.Tasks;
 using System.Web;
-using JWS.Fields.Librray.Classes;
+using JWS.Fields.Library.Classes;
 using Sitecore.Configuration;
 using Sitecore.Data;
 using Sitecore.Data.Items;
 using Sitecore.Layouts;
 using Sitecore.SecurityModel;
 
-namespace JWS.Fields.Librray.Helpers
+namespace JWS.Fields.Library.Helpers
 {
     public static class SitecoreHelper
     {

@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Web;
 using System.Web.UI;
-using JWS.Fields.Librray.Helpers;
+using JWS.Fields.Library.Helpers;
 using Sitecore;
 using Sitecore.Configuration;
 using Sitecore.Data;
@@ -13,7 +13,7 @@ using Control = Sitecore.Web.UI.HtmlControls.Control;
 using Image = System.Web.UI.WebControls.Image;
 
 
-namespace JWS.Fields.Librray.Fields
+namespace JWS.Fields.Library.Fields
 {
     public class GoogleMapField : Control, IContentField
     {

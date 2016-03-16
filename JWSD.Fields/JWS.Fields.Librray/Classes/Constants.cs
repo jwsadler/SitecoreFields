@@ -1,10 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace JWS.Fields.Librray.Classes
+﻿namespace JWS.Fields.Library.Classes
 {
     public static class Constants
     {

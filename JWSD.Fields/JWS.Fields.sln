@@ -10,6 +10,11 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Sitecore Packages", "Siteco
 		Sitecore Packages\Google Maps Field-1.1.zip = Sitecore Packages\Google Maps Field-1.1.zip
 	EndProjectSection
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Include", "Include", "{44C4A500-42D2-44A9-910E-EA23FA392931}"
+	ProjectSection(SolutionItems) = preProject
+		Include\Statistics\StatisticsRegistration.config = Include\Statistics\StatisticsRegistration.config
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU

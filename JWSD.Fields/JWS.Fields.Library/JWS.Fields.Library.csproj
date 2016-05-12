@@ -175,6 +175,9 @@
   <ItemGroup>
     <Compile Include="Classes\Constants.cs" />
     <Compile Include="Fields\GoogleMapField.cs" />
+    <Compile Include="Classes\QuickInfoStatistics.cs" />
+    <Compile Include="Fields\Statistics.cs" />
+    <Compile Include="Classes\HelperControls.cs" />
     <Compile Include="Helpers\SitecoreHelper.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

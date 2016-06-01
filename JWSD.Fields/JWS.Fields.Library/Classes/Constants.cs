@@ -2,6 +2,8 @@
 {
     public static class Constants
     {
+        public const string DEFAULT_METADATA = "default";
+
         public static class Databases
         {
             public const string WEBDB = "web";

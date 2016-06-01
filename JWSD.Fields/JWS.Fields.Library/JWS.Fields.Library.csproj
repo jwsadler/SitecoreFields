@@ -9,8 +9,9 @@
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>JWS.Fields.Library</RootNamespace>
     <AssemblyName>JWS.Fields.Library</AssemblyName>
-    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
+    <TargetFrameworkProfile />
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <DebugSymbols>true</DebugSymbols>
@@ -173,7 +174,10 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Attributes\MetadataAttribute.cs" />
     <Compile Include="Classes\Constants.cs" />
+    <Compile Include="Classes\MetadataHelper.cs" />
+    <Compile Include="Fields\EnumValidatedIntegerField.cs" />
     <Compile Include="Fields\GoogleMapField.cs" />
     <Compile Include="Classes\QuickInfoStatistics.cs" />
     <Compile Include="Fields\Statistics.cs" />
